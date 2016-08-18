@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidPay</string>
+    <string name="pumpkin_pie">Pumpkin pie</string>
+    <string name="pumpkin_pie_price">$12</string>
+    <string name="android_pay_client_id">BP+9ODaXFBjzMbR+yvKCfUj5ZBQLAqUe/wTrpnGxqWLlMz8yFgt/eABoaRXj6bF3EHlhozi54n+vz3p7KEsprV4=</string>
+    <string name="confirm">Confirm Order</string>
+</resources>
